@@ -1,0 +1,66 @@
+[
+  {
+    "nombre": "Marc Bernal",
+    "dorsal": 22,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 18,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/bernal.jpg"
+  },
+  {
+    "nombre": "Marc Casadó",
+    "dorsal": 17,
+    "posicion": "Medio",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/marc.png"
+  },
+  {
+    "nombre": "Pau Cubarsí",
+    "dorsal": 5,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 19,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/cubarsi.jpg"
+  },
+  {
+    "nombre": "Eric García",
+    "dorsal": 24,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 25,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/eric.jpg"
+  },
+  {
+    "nombre": "João Cancelo",
+    "dorsal": 2,
+    "posicion": "Defensa",
+    "nacionalidad": "Portugal",
+    "edad": 31,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/cancelo.jpg"
+  },
+  {
+    "nombre": "Alejandro Balde",
+    "dorsal": 3,
+    "posicion": "Defensa",
+    "nacionalidad": "España",
+    "edad": 22,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/balde.jpg"
+  },
+  {
+    "nombre": "Ronald Araújo",
+    "dorsal": 4,
+    "posicion": "Defensa",
+    "nacionalidad": "Uruguay",
+    "edad": 27,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/araujo.jpg"
+  },
+  {
+    "nombre": "Christensen",
+    "dorsal": 15,
+    "posicion": "Defensa",
+    "nacionalidad": "Dinamarca",
+    "edad": 29,
+    "imagenUrl": "https://raw.githubusercontent.com/ariadna-ge/assets-app-barca/main/andreas.jpg"
+  }
+]
